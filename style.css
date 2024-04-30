@@ -1,0 +1,42 @@
+body{ 
+    background-color: black; 
+} 
+.one{ 
+    border: 1px solid #17D4FE; 
+    height: 400px; 
+    width: 1px; 
+    margin-left: 150px; 
+} 
+.two{ 
+    border: 1px solid #17D4FE; 
+    height: 400px; 
+    width: 1px; 
+    margin-left: 291px; 
+    transform: translateY(-403px); 
+} 
+.three{ 
+    border: 1px solid #17D4FE; 
+    height: 1px; 
+    width: 400px; 
+    margin-left: 28px; 
+    transform: translateY(-700px); 
+} 
+.four{ 
+    border: 1px solid #17D4FE; 
+    height: 1px; 
+    width: 400px; 
+    margin-left: 28px; 
+    transform: translateY(-540px); 
+} 
+.container{ 
+    position: absolute; 
+    top: 90%; 
+    left: 50%; 
+    transform: translateX(-50%) translateY(-50%); 
+} 
+h1{ 
+
+    color: #17D4FE; 
+    text-align: center; 
+    font-size: 70px; 
+}
